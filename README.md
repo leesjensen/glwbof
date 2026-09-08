@@ -6,13 +6,59 @@ This guide provides memories, technical details, route information, and personal
 
 ## The backyard
 
-## San Diego State
+6253 Adobe Dr, San Diego California, was a wonderful place to spend a childhood. The neighborhood has changed a lot since the 1970s. There are giant parking structures, accessory apartments in every backyard, and SDSU has built on every available spot of land. However, the basic feel of my playground is still there.
 
-## The Sewer
+Notable features include:
+
+- Backyard. Filled with an orchard of trees. Avocado, tangerine, lemon, plum, and even a fig tree. This was the site of campouts, games of croquet, tree climbing, and even a couple small fires.
+- Playground. I spent hours playing in the small backyard canyon. Wandering, exploring, build forts, playing tag, and tending my cucumbers in the small garden.
+- Skateboard Ramp. Coming steeply of Montezuma Ave this was the dare devil trick. Ride your skateboard down the ramp. If you were daring you would do it catamaran style with a buddy sitting on two boards with legs connecting you both.
+- Kite flying lot. Before they build the big garages in the 1990s this was a huge parking lot that was empty on weekends and evenings. We had to cross this to get to 7-11 for our slurpees. One of my favorite memories was flying kites here since it was so open.
+- Fuller's Pool. Endless summer days playing silent (a variate of marco-polo where you don't make any noise and try to score points by tagging the person who is it) and trying to improve my diving.
+
+![alt text](sanDiegoNeighborhood.png)
+
+## San Diego State University
+
+We we got tired of playing around our house Karl and I often wandered over onto San Diego State University's campus. We went everywhere. We knew every little path, vending machine, and bathroom. Some of our favorites included:
+
+- 7-11 - Frequently visited for slurpees and candy bars
+- Arcade - Hours spent living the 80s dream of playing Pac-man, Galaga, Donkey Kong, and Spy Hunter.
+- The grates - For a hundred yards there were metal grates that ran along a covered path. These often contained quarters that we could pull out for the vending machines.
+- Concerts - The Kinks, Echo and The Bunnymen, The Smiths, and many others. During the day you could sneak in and pretend you were a rock star on stage.
+- Tag Playground - AKA the library. The five story elevators were a great addition to our many games of tag.
+- Theater - Mom often brought me here to enjoy the arts.
+- Skating Run - This hillside garden has a great slope that we would take a full speed on our roller skates.
+- Bell Tower - The quad in front was a favorite place for our shooting games with disk guns. Once a professor yelled out the second story window for us to be quiet. It turned out to be our dad! One time they left the tower unlocked and we got to climb up inside.
+- Dad's office - A common hangout where we got to be with dad in his office or lab.
+
+![alt text](sdsu.png)
+
+## Adobe Falls
+
+Just north of our house the San Diego River "flows" through Mission Valley. This was a little stream that diverts underneath I-8 as it tries to get to the ocean. We often went through the tunnels and had adventures. Once I took the deacons there for a scout hike just before I was ordained a deacon. Being a little too carless as I showed my friends how cool it was to have this hidden path right in my backyard, I slipped on a bit of gravel and went face first down a 8 foot rocky cliff. This ripped of a significant portion of my face and required lots of stitches and I still have scars. We hiked up to the freeway where my brother Milo picked me up and took me to the hospital. That Sunday I passed the sacrament for the first time and I sure made everyone sick as they grabbed the bread from the tray.
+
+![alt text](adobeFalls.png)
 
 ## Lost in the Sierras
 
+1978 I finally go my chance to go on a Sierra Trek with my family. Up until then it was always my older brothers that came back with tells of adventure and conquest. But at the ripe old age of eight I was deemed worthy. Much of the details are lost to time but we entered from the Eastern Sierras by Mammoth. We spent our first night at Shadow lake (blue dot). The next morning my older brothers were up and ready to get on the trail so they could go fishing. Mom and dad were still working to clean everything up and so they let me go with the big boys. I was slow and so it wasn't long before I was lagging behind. My brothers thought my parents were right behind us and so they figured I would be fine. I made wrong turn and headed to Ediza Lake instead of Garnet (Green dot) Lake. I was moving as quick as I could on my little legs, but when I got to Ediza Lake (red dot) and saw the name I knew I was in the wrong place. I did see some campers on the other side of the lake and so I crawled over the rocks on the northern shore hoping that I was wrong about the name of the lake. Unfortunately, my family was no where to be found. Then it started raining. A nice man let me put my pack in his tent and told me to go sit on a big rock. I sat there and cried for a long time. Eventually I saw Doug coming over the rocks and knew that I was saved. He grabbed my pack and even gave me a piggy back ride over the pass to Garnet Lake where my parents were greatly relieved that I was found.
+
+![alt text](lostInTheSierras.png)
+
 ## Orderville Canyon
+
+I have been in Zion's Orderville Canyon dozens of times and it is one of my favorite places in the world. My earliest memory is when my dad and older brothers made a decent from the East Mesa all the way to the exit of the Narrrows. Karl and I were too young at the time and so mom led us up to were Orderville intersected with the Narrows and then to where the first obstruction was. I remember looking at those massive canyon walls and the cliff that blocked the way and wondered if my brothers would ever make down. This was the early 70s and Orderville was not very well known at the time. No permits, no guides, no internet to tell you how to do it. No trailhead to park at. No signs saying where the canyon actually was. My dad was amazingly adventurous to have done it then. I believe he went to the hardware store and bought a short rope and then had a hard time figuring out how to get into the canyon.
+
+Since that first view of the canyon I repeated the trip with my brothers, with Lisa shortly after we were married, church groups, my family, and extended family. Every time was a new adventure as it can greatly vary based upon how much water and mud there is in the canyon. A long 10 mile hike with some moderate technical obstacles, it is great for a variety of skill levels.
+
+The Birch Hallow entrance makes for a nice technical start with multiple rappels up to 100 feet. I strongly suggest you skip the first two raps by going around them on the left.
+
+If you don't have a permit for Orderville you can go back up Orderville canyon to the parking area. This is a long sun baked slog. There is also a
+
+[TopoMap](https://caltopo.com/m/50NTFBH#)
+
+![alt text](orderville.png)
 
 ## Camp Mataguay
 
@@ -51,8 +97,6 @@ A motorized raft expedition from Lee's Ferry through the length of the Grand Can
 ## Bridalveil Falls
 
 ## Angel's Landing
-
-## Orderville Canyon
 
 ## Ontario Road Trip
 
@@ -277,4 +321,10 @@ A multi-day adventure focusing on off-road riding and canyoneering, typically la
 
 ## Bryce National Park - Under the Rim Trail
 
+## Red Canyon Bike Trail
+
 ## Cascade Circuit
+
+## High Sierra Half Evo via Haeckel Col
+
+## Provo to Ogden on a Bike
