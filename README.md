@@ -48,25 +48,64 @@ Just north of our house the San Diego River "flows" through Mission Valley. This
 
 ## Orderville Canyon
 
-I have been in Zion's Orderville Canyon dozens of times and it is one of my favorite places in the world. My earliest memory is when my dad and older brothers made a decent from the East Mesa all the way to the exit of the Narrrows. Karl and I were too young at the time and so mom led us up to were Orderville intersected with the Narrows and then to where the first obstruction was. I remember looking at those massive canyon walls and the cliff that blocked the way and wondered if my brothers would ever make down. This was the early 70s and Orderville was not very well known at the time. No permits, no guides, no internet to tell you how to do it. No trailhead to park at. No signs saying where the canyon actually was. My dad was amazingly adventurous to have done it then. I believe he went to the hardware store and bought a short rope and then had a hard time figuring out how to get into the canyon.
+Length: 10-12 miles
+Time: All day
+Difficulty: Main Canyon - 2B with 10 foot downclimbs. Birch Hollow start - 3A with 100' rappels.
+Comments: Permit required for Overville. Birch Hollow is on BLM land. Bring a 20' root for the main canyon, optional harnesses for the timid. Birch Hollow, full canyoneering gear.
 
-Since that first view of the canyon I repeated the trip with my brothers, with Lisa shortly after we were married, church groups, my family, and extended family. Every time was a new adventure as it can greatly vary based upon how much water and mud there is in the canyon. A long 10 mile hike with some moderate technical obstacles, it is great for a variety of skill levels.
+I have been in Zion's Orderville Canyon dozens of times and it is one of my favorite places in the world. My earliest memory is when my dad and older brothers made a decent from the East Mesa all the way to the exit of the Narrrows. Karl and I were too young at the time and so mom led us up to were Orderville intersected with the Narrows and then to where the first obstruction was. I remember looking at those massive canyon walls and the cliff that blocked the way and wondered if my brothers would ever make it down. This was the early 70s and Orderville was not very well known at the time. No permits, no guides, no internet to tell you how to do it. No trailhead to park at. No signs saying where the canyon actually was. My dad was amazingly adventurous to have done it then. I believe he went to the hardware store and bought a short rope and then had a hard time figuring out how to get into the canyon.
+
+Since that first view of the canyon I repeated the trip with my brothers, with Lisa shortly after we were married, church groups, my family, and extended family. Every time was a new adventure as it can greatly vary based upon how much water and mud there is in the canyon. With a long 10 mile hike, and some moderate technical obstacles, it is great for a variety of skill levels.
 
 The Birch Hallow entrance makes for a nice technical start with multiple rappels up to 100 feet. I strongly suggest you skip the first two raps by going around them on the left.
 
-If you don't have a permit for Orderville you can go back up Orderville canyon to the parking area. This is a long sun baked slog. There is also a
+If you don't have a permit for Orderville you can go back up Orderville canyon to the parking area. This is a long sun baked slog. There is also a trail, that has become popular staring in the early 2020s, that cuts up the hill on faint trails back to the Birch Hollow parking area.
+
+This is a required trip for those who want to be true Jensen Hikers.
 
 [TopoMap](https://caltopo.com/m/50NTFBH#)
 
 ![alt text](orderville.png)
 
-## Camp Mataguay
+## Lady Mountain
+
+Length: 3 miles
+Time: 5-6 hours
+Difficulty: A few moves of 5.6.
+Comments: No permit required. Lots of elevation gain (~2500 in a mile). Bring a 20' root to belay the short technical sections. The crux 5.6 move is exposed but easy. The wall 5.6 move is harder, a bit longer, but not exposed at all. Very hot in full sun. Avoid it if there is snow on the trail. The slabs above 5.6 wall and just before the summit can be very slippery if wet.
+
+Back in the 1960s Lady Mountain was one of the most popular "hikes" in Zion. It is located right across from the lodge and use to have chains and ladders to tame the exposed parts. It was common for people to race to the top while their friends watch through telescopes form the lodge. After a couple fatalities and too many rescues the park service removed the chains and ladders and took it off of the park maps.
+
+Today, you can hike Lady Mountain without a permit. It is a wonderful hike that is very accessible and dramatic. It is very unlikely that you will see another party on the route.
+
+This was one of my first memorable hikes that I did with my dad and my brothers. I was probably about seven years old. After drinking all of my water, Marc gave me some of his, but taught me how to take a sip, swish it around in my mouth to satisfy the dryness and the gulp it down. Milo has a famous story about dad encouraging him to the top by telling him there was an apple tree at the top (dad had an apple in his pack for him). Milo didn't buy it and refused to go to the top, but this was the origin for the "There is a slurpy machine at the top" motivational encouragement for struggling hikers.
+
+This is a required trip for those who want to be true Jensen Hikers.
+
+[TopoMap](https://caltopo.com/m/50NTFBH#)
+
+![alt text](ladyMountain.png)
 
 ## Mt San Jacinto
 
+Length: 15-20 miles
+Time: multiday
+Difficulty: +3000k elevation gain on well maintained trails
+Comments: I believe you need a permit for this now days. Both for the summit and overnight camping.
+
+By the time I was old enough to do overnight backpacking (around 1978) mom and dad would take Karl and me up Mt San Jacinto which as a couple hour car ride from San Diego. Located between Riverside and Palm Springs it is a beautiful and accessible peak. In fact Palm Springs operates a tram that will take you most of the way up to the summit. We would hike up and spend the night above the steep initial switchbacks and then hike the peak the next day. I have great memories of these trips as being difficult but something I could feel good about accomplishing.
+
+![alt text](sanJacinto.png)
+
 ## Palomar 6th Grade Camp
 
-## The Road Trip that Started it all
+![alt text](palomar.png)
+
+In 1981 I spent a week up at the school's sixth grade camp. It was fun to be outdoors, but awkward to sleep in a cabin with all of my classmates at a time of life where it was tricky to fit in. The best part of it was that Milo worked there as a cook and he would come and tell ghost stories to our cabin every night.
+
+The camp is now closed down, but I still think about it with semi-fond memories.
+
+## The Across America Road Trip
 
 ## Alaska Road Trip
 
@@ -115,6 +154,8 @@ A motorized raft expedition from Lee's Ferry through the length of the Grand Can
 ## Hawaii 1
 
 ## Hawaii 2
+
+## Zion Traverse
 
 # 2011 - 2020
 
