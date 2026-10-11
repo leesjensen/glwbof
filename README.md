@@ -222,6 +222,18 @@ A multi-day adventure focusing on off-road riding and canyoneering, typically la
 
 ## Provo
 
+Distance: 10 miles RT. 2 miles RT starting from the road.
+Elevation gain: 6200'
+Comments: The final ridge is steep as it is a typical Wasatch direct trail to the top. Much easier if you start on the Squaw Peak road (only 2 miles total).
+
+There are many different ways to do Provo Peak. The first time was with Sam and Mckay. We drove up the Squaw Peak road and camped the night. In the morning we did the steep slough up to the summit. I didn't know where the trail was and so we just went right up the ravine until we finally met up with the final ridge trail. Sam was not feeling well, but both of my hiking buddies made it to the top. It was quite an accomplishment for them and I was proud. Going back down we followed the trail the whole way.
+
+Since then I have done Provo Peak via the Triple Crown. Starting at Big Springs in the South Fork of Provo Canyon, up to Cascade saddle, to Freedom Peak, then East Provo Peak, and then finally Provo Peak before descending down through Slate Canyon.
+
+Dillon, Caleb, and also did it from the Bonneville Shoreline Trail via the Y trail. That is a long hard hike. Lots of elevation gain with some up and down as you wrap around Lions Head. We made it even longer by coming down Slate Canyon. This added an additional mile. If you are feeling strong, this is actually a pretty enjoyable way to do the hike.
+
+![Provo Peak](provopeak.png)
+
 ## Cascade
 
 ## Timpanogos
@@ -253,6 +265,32 @@ A premier high-altitude trek covering approximately 80 to 100 miles through the 
   - **Day 6:** Optional ascent of Fremont Peak or rest day.
   - **Day 7:** 12 miles to Three Forks Park.
   - **Day 8:** 12 miles to Green Lakes trailhead.
+
+## Y Mountain
+
+## Buckley Mountain
+
+Distance: 2 miles
+Elevation gain: 1000'
+Comments: Nasty bushwhack. Solitude.
+
+Buckley Mountain was the last small peak along the Provo Front and so when Doug suggested we drive the Squaw Peak Road I said I would do it if I could take a quick side hike to the top of Buckley Mountain. The alternative is to start on the Bonneville Shoreline Trail and hike 2 miles, one way, with 5000' of elevation gain. I thought this would be easy.
+
+What we found was a steep approach covered with impassible scrub oak. Literally climbing on top of the scrub and pulling branch to branch I made it to the ridge covering only a quarter of a mile in a half an hour. Once on the ridge it was a quick run to the summit. Maybe the valley approach would have been more enjoyable, but I don't feel any compulsion to do it again.
+
+![Buckley Mountain](buckleymountain.png)
+
+## Maple Mountain
+
+Distance: 5 miles
+Elevation gain: 3800'
+Comments: Great hike if you want solitude. Beautiful views. Hard scrambling after Maple Flats. Maple Flats would be a good place to camp.
+
+After looking at Maple Mountain from our backyard for 15 years I talked Mckay into hiking it with me. We took the Y trail up to slide canyon and then up to maple flats. There isn't really a trail to the top and so we just went up the NorthWest ridge. It was steep bushwhacking but eventually we got to the top. The view is great from the summit with views looking down into Slate Canyon, out into the valley, and Y mountain to the north.
+
+We took longer than expected coming up the ridge and it was getting late and so I thought we could save time by going straight down the mountain to the Bonneville Shoreline Trail and then home. However, the gully that led down from Maple Flats was filled with Scrub Oak that make for slow going. Plus Mckay likes to take it extra careful going down steep slopes, and it was steep, so the sun was quickly setting as I urged Mckay on and we reached the trail with the sunlight completely gone. I think we might have gone faster if we had gone back the way we came.
+
+![Maple Mountain](maplemountain.png)
 
 ## Uinta Highline 1
 
@@ -364,8 +402,22 @@ A multi-day adventure focusing on off-road riding and canyoneering, typically la
 
 ## Red Canyon Bike Trail
 
-## Cascade Circuit
+## Cascade Loop
+
+Distance: 26 miles
+Elevation gain: 5000'
+Comments: Long but really enjoyable. I would do it again.
+
+I wanted to test my long distancing, high elevation gain, ability with something that would prepare me for my upcoming Sierra trip. I decided that hiking all around Cascade Peak in one day would do the trick. All Spring I looked the mountain and wondered if could do it. Finally, I decided to go for it. I started early at 5 AM and made great progress up Rock Canyon and then up to the Cascade Saddle. It was hard work with 4500' of elevation gain over 6.5 miles. The solitude was great and the views were beautiful. Once on the ridge I took a break and felt like the hard work was done. Never mind that I had another 20 miles yet to go.
+
+The hike down to Big Springs went quickly, but was way steeper than I remembered. The road to the Provo River Trail and then to the Bonneville Shoreline Trail (BST) by Nunn's Park was a cruiser and actually really enjoyable. I then followed the BST back to my car at Rock Canyon.
+
+I had lunch at Vivian Park and took trail snacks with me, but because I didn't spread out my caloric intake, food started to be hard to choke down and by the time I got to the Fairlawn Cemetery I was bonking a bit. The 90+ temperatures were not helping either especially with the direct sun shining on the shadeless trail. So I dowsed myself in the cemetery sprinkler that was watering the lawn, filled up my water bottles, and took a little nap under a pine tree. If that sprinkler hadn't been going I would have been in much worse shape.
+
+![Cascade Loop](cascadeloop.png)
 
 ## High Sierra Half Evo via Haeckel Col
 
 ## Provo to Ogden on a Bike
+
+## Box Elder Peak
