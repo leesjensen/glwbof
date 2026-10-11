@@ -2,8 +2,6 @@
 
 This guide provides memories, technical details, route information, and personal insights for several high-quality adventures across the world.
 
-# 1970-1988
-
 ## The backyard
 
 6253 Adobe Dr, San Diego California, was a wonderful place to spend a childhood. The neighborhood has changed a lot since the 1970s. There are giant parking structures, accessory apartments in every backyard, and SDSU has built on every available spot of land. However, the basic feel of my playground is still there.
@@ -48,10 +46,10 @@ Just north of our house the San Diego River "flows" through Mission Valley. This
 
 ## Orderville Canyon
 
-Length: 10-12 miles
-Time: All day
-Difficulty: Main Canyon - 2B with 10 foot downclimbs. Birch Hollow start - 3A with 100' rappels.
-Comments: Permit required for Overville. Birch Hollow is on BLM land. Bring a 20' root for the main canyon, optional harnesses for the timid. Birch Hollow, full canyoneering gear.
+- Length: 10-12 miles
+- Time: All day
+- Difficulty: Main Canyon - 2B with 10 foot downclimbs. Birch Hollow start - 3A with 100' rappels.
+- Comments: Permit required for Overville. Birch Hollow is on BLM land. Bring a 20' root for the main canyon, optional harnesses for the timid. Birch Hollow, full canyoneering gear.
 
 I have been in Zion's Orderville Canyon dozens of times and it is one of my favorite places in the world. My earliest memory is when my dad and older brothers made a decent from the East Mesa all the way to the exit of the Narrrows. Karl and I were too young at the time and so mom led us up to were Orderville intersected with the Narrows and then to where the first obstruction was. I remember looking at those massive canyon walls and the cliff that blocked the way and wondered if my brothers would ever make it down. This was the early 70s and Orderville was not very well known at the time. No permits, no guides, no internet to tell you how to do it. No trailhead to park at. No signs saying where the canyon actually was. My dad was amazingly adventurous to have done it then. I believe he went to the hardware store and bought a short rope and then had a hard time figuring out how to get into the canyon.
 
@@ -65,14 +63,14 @@ This is a required trip for those who want to be true Jensen Hikers.
 
 [TopoMap](https://caltopo.com/m/50NTFBH#)
 
-![alt text](orderville.png)
+<img src="orderville.png" width="1400" />
 
 ## Lady Mountain
 
-Length: 3 miles
-Time: 5-6 hours
-Difficulty: A few moves of 5.6.
-Comments: No permit required. Lots of elevation gain (~2500 in a mile). Bring a 20' root to belay the short technical sections. The crux 5.6 move is exposed but easy. The wall 5.6 move is harder, a bit longer, but not exposed at all. Very hot in full sun. Avoid it if there is snow on the trail. The slabs above 5.6 wall and just before the summit can be very slippery if wet.
+- Length: 3 miles
+- Time: 5-6 hours
+- Difficulty: A few moves of 5.6.
+- Comments: No permit required. Lots of elevation gain (~2500 in a mile). Bring a 20' root to belay the short technical sections. The crux 5.6 move is exposed but easy. The wall 5.6 move is harder, a bit longer, but not exposed at all. Very hot in full sun. Avoid it if there is snow on the trail. The slabs above 5.6 wall and just before the summit can be very slippery if wet.
 
 Back in the 1960s Lady Mountain was one of the most popular "hikes" in Zion. It is located right across from the lodge and use to have chains and ladders to tame the exposed parts. It was common for people to race to the top while their friends watch through telescopes form the lodge. After a couple fatalities and too many rescues the park service removed the chains and ladders and took it off of the park maps.
 
@@ -88,10 +86,10 @@ This is a required trip for those who want to be true Jensen Hikers.
 
 ## Mt San Jacinto
 
-Length: 15-20 miles
-Time: multiday
-Difficulty: +3000k elevation gain on well maintained trails
-Comments: I believe you need a permit for this now days. Both for the summit and overnight camping.
+- Length: 15-20 miles
+- Time: multiday
+- Difficulty: +3000k elevation gain on well maintained trails
+- Comments: I believe you need a permit for this now days. Both for the summit and overnight camping.
 
 By the time I was old enough to do overnight backpacking (around 1978) mom and dad would take Karl and me up Mt San Jacinto which as a couple hour car ride from San Diego. Located between Riverside and Palm Springs it is a beautiful and accessible peak. In fact Palm Springs operates a tram that will take you most of the way up to the summit. We would hike up and spend the night above the steep initial switchbacks and then hike the peak the next day. I have great memories of these trips as being difficult but something I could feel good about accomplishing.
 
@@ -123,7 +121,23 @@ A week-long canoeing trip starting immediately below the Hoover Dam.
 
 ## Backpacking Europe
 
-# 1989 - 2000
+My senior year of high school I left a few weeks early so that Karl and I could get a cheaper flight to Europe. Our plan was to use a Eurail Pass to backpack around the continent staying in youth hostels.
+
+It was a fantastic trip that really built my confidence to see the world. Karl was an amazing traveling partner as he put up with my non-planning and impulsiveness.
+
+Things started on a sour note when we arrived in London and found that we needed reservations in order to stay in the hostel there. So we made reservations for our return leg and took off for Brighton and then across the channel to Paris. After that we still had lots of obstacles, but we saw so many amazing things and just enjoyed ourselves with the freedom of our travel.
+
+I really didn't know what I was doing at it showed when we tried to go to Tours (because that is where the Tour de France was located) but even messed that up since we didn't know how to translate place names to French and ended up on a train to somewhere else.
+
+The only reason we went ot Cologne was because I liked men's perfume. Why we didn't go to Rome was because I had already been there. Never-mind that we could have easily rented scooters and drove all over the place. We went right by Luxembourg, Brussels, and Liverpool and didn't bother to stop in. I also failed to take Karl to Berlin where the wall was still standing and he would have really enjoyed seeing that.
+
+All I can say was this was before the internet and so there wasn't really a way to easily plan. The guide book we did take with us only pointed us to really crowded tourist traps and the book got stolen in Munich anyway.
+
+We lived so cheap. Maybe a little too cheap. Hostels were $5 a night and we ate out of grocery stores almost the whole time.
+
+I would love to do a trip like this again.
+
+<img src="backpackingeurope.png" width="1000"/>
 
 ## Grand Canyon Rafting (Full Length)
 
@@ -244,7 +258,7 @@ Dillon, Caleb, and also did it from the Bonneville Shoreline Trail via the Y tra
 
 ## Caribbean Cruise
 
-### Grand Teton
+## Grand Teton
 
 ## Wind River 100 Year Storm
 
