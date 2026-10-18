@@ -252,9 +252,9 @@ A multi-day adventure focusing on off-road riding and canyoneering, typically la
 
 ## Provo
 
-Distance: 10 miles RT. 2 miles RT starting from the road.
-Elevation gain: 6200'
-Comments: The final ridge is steep as it is a typical Wasatch direct trail to the top. Much easier if you start on the Squaw Peak road (only 2 miles total).
+- Distance: 10 miles RT. 2 miles RT starting from the road.
+- Elevation gain: 6200'
+- Comments: The final ridge is steep as it is a typical Wasatch direct trail to the top. Much easier if you start on the Squaw Peak road (only 2 miles total).
 
 There are many different ways to do Provo Peak. The first time was with Sam and Mckay. We drove up the Squaw Peak road and camped the night. In the morning we did the steep slough up to the summit. I didn't know where the trail was and so we just went right up the ravine until we finally met up with the final ridge trail. Sam was not feeling well, but both of my hiking buddies made it to the top. It was quite an accomplishment for them and I was proud. Going back down we followed the trail the whole way.
 
@@ -295,6 +295,10 @@ A premier high-altitude trek covering approximately 80 to 100 miles through the 
   - **Day 6:** Optional ascent of Fremont Peak or rest day.
   - **Day 7:** 12 miles to Three Forks Park.
   - **Day 8:** 12 miles to Green Lakes trailhead.
+
+## Triple Crown
+
+![Triple Crown](triplecrown.png)
 
 ## Y Mountain
 
@@ -379,7 +383,20 @@ A 43-mile high-altitude trek in the Uinta Mountains, typically involving 3-4 day
 
 ## New England Tour
 
+![New England Tour](newenglandtour.png)
+
+## Wyoming and South Dakota
+
+![Wyoming Tour](wyomingtour.png)
+
+A multi-day trip with the following itinerary:
+
+1. Day 1: Provo to Wyoming (5 hours)
+2. Day 2:
+
 ## Colorado Tour
+
+![Colorado Tour](coloradotour.png)
 
 ## Brothers Tour
 
@@ -389,7 +406,17 @@ A 43-mile high-altitude trek in the Uinta Mountains, typically involving 3-4 day
 
 ## Carolinas Tour
 
+![Carolinas Tour](carolinastour.png)
+
+![Charleston](charleston.png)
+
+## Redwoods Tour
+
+![Redwoods](redwoodstour.png)
+
 ## Ian’s 13 year old trip Waterton Provincial Park
+
+![Ian's Trip](ianstrip.png)
 
 ## Mckay’s 13 year old trip Grand Teton Circuit
 
@@ -397,9 +424,17 @@ A 43-mile high-altitude trek in the Uinta Mountains, typically involving 3-4 day
 
 ## Dillon's learning to drive trip
 
+![Dillon Learns to Drive](dillonlearningtodrive.png)
+
 ## Lizzie’s learning to drive trip
 
+## Jeff and Claire's Wedding
+
+![Jeffs wedding](jeffswedding.png)
+
 ## Chicago Mckay Drop off
+
+![Mckay Drop Off](mckaydropoff.png)
 
 A multi-day trip with the following itinerary:
 
@@ -413,13 +448,6 @@ A multi-day trip with the following itinerary:
 8. Day 8: Vedauwoo to Provo (6.5 hours)
 
 ## Heart of America Tour
-
-## Wyoming and South Dakota
-
-A multi-day trip with the following itinerary:
-
-1. Day 1: Provo to Wyoming (5 hours)
-2. Day 2:
 
 ## Desertarama (San Rafael Swell, UT)
 
@@ -447,6 +475,10 @@ I had lunch at Vivian Park and took trail snacks with me, but because I didn't s
 ![Cascade Loop](cascadeloop.png)
 
 ## High Sierra Half Evo via Haeckel Col
+
+## Bike around Utah Lake
+
+![Bike Utah Lake](bikeutahlake.png)
 
 ## Provo to Ogden on a Bike
 
