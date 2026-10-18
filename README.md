@@ -111,6 +111,8 @@ The camp is now closed down, but I still think about it with semi-fond memories.
 
 ## Europe with Reilly and Eleanor
 
+<img alt="Bus tour" src="bustooleurope.png" width="900" />
+
 ## Colorado River: Hoover Dam to Lake Mohave
 
 A week-long canoeing trip starting immediately below the Hoover Dam.
@@ -149,6 +151,16 @@ A motorized raft expedition from Lee's Ferry through the length of the Grand Can
 
 ## Bridalveil Falls
 
+Shortly after Lisa and I were engaged, she went off to Belgium for the summer. It was the summer of loneliness for me and I mostly just worked. However, one day a few of my friends suggested we go see Bridalveil Falls in Provo Canyon. It was a nice day and the falls were beautiful. We found a trail that took us around the side of the lower falls and to the upper falls.
+
+![Bridle Veil Falls](bridleveilfalls.png)
+
+By myself, I wandered further around the right side of the upper falls wondering if there was a way to get to the very top. I saw what looked like a way that a would go if I climbed up a slab of rock and so I went for it. Halfway up the rock was wet and I realized that it would be very difficult to go back down. I had no choice but to keep going. I thought maybe I could hike around the backside. I later learned that that would have been a 15 mile hike.
+
+![Tram](tram.png)
+
+However, there was also a tram, back then, that went to a restaurant that was perched on the side of the cliff. The were kind enough to give me a ride to the bottom. I remember thinking while I was sitting on that cliff that Lisa is going to be so mad at me if I die. From that day on, I have been **very** careful about the risks and adventures I take.
+
 ## Angel's Landing
 
 ## Ontario Road Trip
@@ -160,6 +172,8 @@ A motorized raft expedition from Lee's Ferry through the length of the Grand Can
 # 2001 - 2010
 
 ## French Riviera
+
+![French Riviera](frenchriviera.png)
 
 ## Hong Kong
 
@@ -174,6 +188,8 @@ A motorized raft expedition from Lee's Ferry through the length of the Grand Can
 # 2011 - 2020
 
 ## Ireland - Ring of Kerry
+
+![Ring of Kerry](ringofkerry.png)
 
 ## Ireland - Cliffs of Moher
 
