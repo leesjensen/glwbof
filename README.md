@@ -476,6 +476,12 @@ I had lunch at Vivian Park and took trail snacks with me, but because I didn't s
 
 ## High Sierra Half Evo via Haeckel Col
 
+- distance: 35.18mi
+- range: 8717' to 12665'
+- gross: +8542'-8583'
+
+![Half Evo](halfevo.png)
+
 ## Bike around Utah Lake
 
 ![Bike Utah Lake](bikeutahlake.png)
