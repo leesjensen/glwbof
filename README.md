@@ -244,11 +244,53 @@ A multi-day adventure focusing on off-road riding and canyoneering, typically la
 
 ## Twin Peaks
 
+## Seven Peaks
+
+> I have never done this, but I think I might either as 4 section hikes or as one lone through hike. 45k of elevation gain is going to be the killer.
+
+- distance: 120 mi
+- range: 4806' to 11923'
+- gross: +45886'-46393'
+
+![Seven Peaks](sevenpeaks.png)
+
+![elveation](sevenpeakselevation.png)
+
+| Day       | Route Section & Highlights                                                                                                                               | Estimated Mileage | Estimated Elevation Gain | Logistical Notes / Resupply                                                      |
+| :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------- | :----------------------- | :------------------------------------------------------------------------------- |
+| **Day 1** | **The Nebo Launch**<br>Valley floor up to Mount Nebo (Peak 1) and down to Payson Canyon/Nebo Loop gap.                                                   | 14.0 mi           | +5,800 ft                | High-altitude start; clear the highest peak with fresh legs.                     |
+| **Day 2** | **The Loafer Traverse**<br>Climb out of Payson Canyon, traverse the Loafer/Santaquin complex (Peak 2), and drop into the rugged southern canyons.        | 12.5 mi           | +4,500 ft                | Rolling forested ridges giving way to deep, dry canyons.                         |
+| **Day 3** | **Spanish Fork Peak to Mapleton**<br>Ascend Spanish Fork Peak (Peak 3) and endure the long, punishing knee-burner descent down Maple Canyon.             | 14.5 mi           | +5,500 ft                | 🛒 **RESUPPLY #1:** Drop into Mapleton valley floor to rest and restock.         |
+| **Day 4** | **The Foothill Grind**<br>Climb completely out of the Mapleton valley floor up the brutal western flanks to position near Provo Peak.                    | 13.0 mi           | +6,200 ft                | Pure uphill grinding to get back on the highline; dry camps.                     |
+| **Day 5** | **The Crux Ridge**<br>Summit Provo Peak (Peak 4) early, then navigate the highly technical, slow-going ridge north to Cascade Mountain (Peak 5).         | 15.0 mi           | +7,000 ft                | Mentally and physically the hardest day. Heavy exposure and no water.            |
+| **Day 6** | **Cascade Descent to Provo Canyon**<br>Drop down Cascade's north face to the canyon floor, then immediately begin the massive climb up lower Timpanogos. | 15.5 mi           | +5,600 ft                | 🛒 **RESUPPLY #2:** Re-fuel in Provo Canyon before tackling the northern giants. |
+| **Day 7** | **The Timpanogos Highline**<br>Push through alpine basins to the summit of Mount Timpanogos (Peak 6) and traverse north toward American Fork Canyon.     | 13.5 mi           | +4,800 ft                | Classic alpine trails, high exposure, potential snowfields, and mountain goats.  |
+| **Day 8** | **The Granite Finish**<br>Cross the American Fork gaps, scramble up the rugged glaciated granite of Lone Peak (Peak 7), and descend to the valley floor. | 14.97 mi          | +6,486 ft                | 🏁 **FINISH:** Final technical summit block push and ultimate descent.           |
+| **Total** | **The Wasatch Seven Peaks Through-Hike**                                                                                                                 | **112.97 mi**     | **+45,886 ft**           | **A legendary, world-class mountain linkup.**                                    |
+
 ## Nebo
 
-## Santaquine
+- distance: 8.66 mi round trip
+- range: 9256' to 11884'
+- elevation gain: +3153'-525'
+
+<img src="nebo.png" width="800" />
+
+## Santaquin
+
+- distance: 10.18 mi round trip
+- range: 7469' to 10682'
+- elevation gain: +3712'-734'
+
+<img src="santaquinPeak.png" width="1000"/>
 
 ## Spanish Fork
+
+- distance: 5.34mi
+- range: 5467' to 10141'
+- elevation gain: +4754'-80'
+
+<img src="spanishfork.png" width="800" />
 
 ## Provo
 
